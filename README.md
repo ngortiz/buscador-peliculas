@@ -2,7 +2,12 @@ Aplicación Web que permite a los usuarios explorar y buscar películas y series
 
 Tecnología: JavaScript, CSS, Restful API.
 
+Peliculas
 <img width="1229" alt="Screenshot 2025-02-27 at 09 57 53" src="https://github.com/user-attachments/assets/44c7803a-87e4-4312-aab0-8252513ef746" />
 
 <img width="1216" alt="Screenshot 2025-02-27 at 10 01 46" src="https://github.com/user-attachments/assets/42a33ba0-7de9-4760-9d31-092b0c1b7cfd" />
+
+Series
+<img width="1202" alt="Screenshot 2025-02-27 at 10 05 44" src="https://github.com/user-attachments/assets/c3dccda0-4fe4-4b4f-b2e8-3990a26e2fb3" />
+
 
